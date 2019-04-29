@@ -17,7 +17,7 @@
  <key>kind</key>
  <string>software-package</string>
  <key>url</key>
- <string>http서버에 올릴수 잇는 ipa 링크</string>
+ <string>http://www.cubedrop.io/images/cubedrop.ipa</string>
  </dict>
  <dict>
  <key>kind</key>
@@ -25,7 +25,7 @@
  <key>needs-shine</key>
  <true/>
  <key>url</key>
- <string>57*57사이즈의 앱 로고</string>
+ <string>http://www.cubedrop.io/images/icon5858.png</string>
  </dict>
  <dict>
  <key>kind</key>
@@ -33,21 +33,21 @@
  <key>needs-shine</key>
  <true/>
  <key>url</key>
- <string>521*521사이즈의 앱 로고/string>
+ <string>http://www.cubedrop.io/images/icon512.png</string>
  </dict>
  </array>
  <key>metadata</key>
  <dict>
  <key>bundle-identifier</key>
- <string>bundleID</string>
+ <string>io.cubedrop</string>
  <key>bundle-version</key>
- <string>버젼</string>
+ <string>0.0.1</string>
  <key>kind</key>
  <string>software</string>
- <key>subtitle</key>
+ <key>Cube Drop</key>
  <string>App</string>
  <key>title</key>
- <string>앱 명칭</string>
+ <string>Cube Drop</string>
  </dict>
  </dict>
  </array>
